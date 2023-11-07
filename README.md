@@ -1,5 +1,7 @@
-# POO_UFMG
-Cadeira de Programação Orientada a Objetos
+# SISTEMA DE GERENCIAMENTO DE AEROPORTO
+Projeto para a disciplina de Programação Orientada a Objetos, ministrada pelo professor Ramon Marques. 
+Nesse projeto, a ideia é implementar um sistema de gerenciamento de um aeroporto, que terá requisitos 
+atualizados / incrementados toda sprint ( semanal ).
 
 ## Integrantes do Grupo
 
